@@ -1,0 +1,16 @@
+{
+  "Login_Page":
+  {
+    "username": ["id", "username"],
+    "password": ["name","pwd"],
+    "login": ["xpath","(//div[contains(.,'Login')])[2]"]
+  },
+
+  "TimeTrack_Page":
+  {
+    "select_user": ["xpath", "//img[@id='ext-gen7']"],
+    "new_link": ["xpath", "//a[.='New']"],
+    "enter_time": ["xpath", "(//input[@type='text'])[4]"],
+    "save_changes": ["xpath", "(//input[@value='Save Changes'])[1]"]
+  }
+}
