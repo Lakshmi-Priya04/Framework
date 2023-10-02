@@ -1,0 +1,44 @@
+2023-10-02 15:01:07,183 [INFO]: 
+2023-10-02 15:01:12,155 [INFO]: launching browser
+2023-10-02 15:01:13,698 [INFO]: entering username
+2023-10-02 15:01:13,823 [INFO]: entering password
+2023-10-02 15:01:13,943 [INFO]: clicking login button
+2023-10-02 15:01:15,026 [INFO]: clicking logout button
+2023-10-02 15:01:15,648 [INFO]: closing browser
+2023-10-02 15:01:23,670 [INFO]: launching browser
+2023-10-02 15:01:24,844 [INFO]: entering username
+2023-10-02 15:01:25,574 [INFO]: entering password
+2023-10-02 15:01:25,768 [INFO]: clicking login button
+2023-10-02 15:01:27,240 [INFO]: clicking user tab
+2023-10-02 15:01:40,397 [INFO]: clicking logout button
+2023-10-02 15:01:40,624 [INFO]: entering username
+2023-10-02 15:01:40,733 [INFO]: entering password
+2023-10-02 15:01:40,850 [INFO]: clicking login button
+2023-10-02 15:01:41,421 [INFO]: clicking logout button
+2023-10-02 15:01:41,849 [INFO]: closing browser
+2023-10-02 15:01:48,542 [INFO]: launching browser
+2023-10-02 15:01:49,541 [INFO]: entering username
+2023-10-02 15:01:49,955 [INFO]: entering password
+2023-10-02 15:01:50,081 [INFO]: clicking login button
+2023-10-02 15:01:51,150 [INFO]: clicking timetrack tab
+2023-10-02 15:01:51,323 [INFO]: selecting created user
+2023-10-02 15:01:57,111 [INFO]: clicking new link
+2023-10-02 15:01:57,411 [INFO]: select new customer option from drop down
+2023-10-02 15:01:58,120 [INFO]: entering customer name
+2023-10-02 15:01:58,382 [INFO]: entering project name
+2023-10-02 15:01:59,192 [INFO]: entering task name
+2023-10-02 15:01:59,339 [INFO]: clicking create task button
+2023-10-02 15:01:59,610 [INFO]: switching back to parent tab
+2023-10-02 15:02:04,658 [INFO]: clicking logout button
+2023-10-02 15:02:04,892 [INFO]: entering username
+2023-10-02 15:02:04,988 [INFO]: entering password
+2023-10-02 15:02:05,105 [INFO]: clicking login button
+2023-10-02 15:02:10,708 [INFO]: entering time
+2023-10-02 15:02:14,855 [INFO]: click on save changes
+2023-10-02 15:02:19,622 [INFO]: clicking logout button
+2023-10-02 15:02:19,853 [INFO]: entering username
+2023-10-02 15:02:19,919 [INFO]: entering password
+2023-10-02 15:02:20,029 [INFO]: clicking login button
+2023-10-02 15:02:20,914 [INFO]: selecting created user
+2023-10-02 15:02:26,808 [INFO]: clicking logout button
+2023-10-02 15:02:27,271 [INFO]: closing browser
